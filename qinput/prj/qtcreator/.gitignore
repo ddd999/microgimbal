@@ -1,6 +1,0 @@
-*.pro.user
-*.qinput
-/Makefile
-/.obj/
-*.rpi
-*.qmake.stash

@@ -1,7 +1,0 @@
-*.pro.user
-*.qbase
-/Makefile
-*.pro.user.9356984
-/.obj/
-/Makefile.rpi
-*.qmake.stash
